@@ -1,0 +1,14 @@
+{
+  "name": "Budget Tracker",
+  "short_name": "Budget",
+  "description": "Personal mobile budget tracker",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F6FA",
+  "theme_color": "#0B2E59",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
